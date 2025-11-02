@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 Start a Discussion
+    url: https://github.com/djmhunt/Team_coordination_example/discussions
+    about: For open-ended conversations, brainstorming, and Q&A
+  - name: 📚 View the Wiki
+    url: https://github.com/djmhunt/Team_coordination_example/wiki
+    about: Access our knowledge base and documentation
+  - name: 📋 View Projects
+    url: https://github.com/djmhunt/Team_coordination_example/projects
+    about: See our curriculum development roadmap and workflows
