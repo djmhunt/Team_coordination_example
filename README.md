@@ -73,7 +73,7 @@ Store policy documents, proposals, and examples as markdown or text files in the
 
 ```markdown
 See our [Course Proposal Template](docs/templates/course-proposal.md)
-Relates to [Good Practice: Active Learning](docs/good-practices/active-learning.md)
+Relates to [Good Practice: Think-Pair-Share](docs/good-practices/think-pair-share.md)
 ```
 
 ## 📁 Repository Structure
